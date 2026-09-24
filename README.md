@@ -2,11 +2,11 @@
 
 🧠 **Deep Tech Architect | Polyglot Engineer | Cryptography & Physics Researcher**
 
-Bridging the gap between advanced mathematics, theoretical physics, and low-level systems programming. I build next-generation, chaos-based cryptographic systems and explore the boundaries of computational physics.
+Bridging the gap between advanced mathematics, theoretical physics, and low-level systems programming. I build next-generation, chaos-based cryptographic systems and explore the boundaries of computational physics and AI-resistant software design.
 
 ---
 
-### 💻 The Polyglot Arsenal (25+ Languages)
+### 💻 The Polyglot Arsenal
 
 | Domain | Technologies & Languages |
 | :--- | :--- |
@@ -15,7 +15,7 @@ Bridging the gap between advanced mathematics, theoretical physics, and low-leve
 | **Backend & Distributed** | `Go`, `Java`, `C#`, `Elixir`, `Erlang` |
 | **Web & Frontend** | `TypeScript`, `JavaScript`, `PHP`, `Ruby`, `Dart` |
 | **Functional & Logic** | `Haskell`, `Lisp`, `Prolog`, `F#` |
-| **Scripting & Automation**| `Bash`, `PowerShell`, `Lua`, `Perl`, `Tcl` |
+| **Scripting & Automation** | `Bash`, `PowerShell`, `Lua`, `Perl`, `Tcl` |
 | **Mobile & Embedded** | `Swift`, `Kotlin`, `MicroPython` |
 
 ---
@@ -29,58 +29,30 @@ Bridging the gap between advanced mathematics, theoretical physics, and low-leve
 
 ---
 
-### 🐉 Cybersecurity & Offensive Security (Kali Linux)
-
-- **Reconnaissance:** `Nmap`, `Maltego`, `theHarvester`, `Recon-ng`, `Shodan`, `SpiderFoot`
-- **Exploitation:** `Metasploit`, `Burp Suite Pro`, `SQLmap`, `BeEF`, `XSStrike`, `Commix`
-- **Reverse Engineering:** `Ghidra`, `Radare2`, `IDA Pro`, `x64dbg`, `Binary Ninja`, `Objdump`
-- **Password & Crypto Attacks:** `Hashcat`, `John the Ripper`, `Hydra`, `Aircrack-ng`, `Wifite`
-- **Forensics & Analysis:** `Wireshark`, `Volatility`, `Autopsy`, `Binwalk`, `Sleuth Kit`, `Tcpdump`
-- **Wireless Hacking:** `Aircrack-ng`, `Kismet`, `Bettercap`, `Reaver`, `Wifite2`
-
----
-
 ### 🔥 Active Research & Projects
 
-| Project | Focus Area | Tech Stack |
-| :--- | :--- | :--- |
-| **ChaosCrypt** | Hyperchaotic Hybrid Encryption Engine | `Python`, `Rust`, `Cryptography`, `NumPy`, `AES-256-GCM` |
-| **Neuromorphic Sim** | Analog computing & Spiking Neural Networks | `Python`, `SciPy`, `MATLAB`, `Brian2` |
-| **Zero-Day Lab** | Custom exploit development & vulnerability research | `C`, `Assembly`, `Kali Linux`, `Ghidra`, `Radare2` |
-| **Quantum-Resistant Crypto** | Post-quantum cryptographic algorithms | `Python`, `C`, `Qiskit`, `NIST PQC Candidates` |
+| Project | Focus Area | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[ChaosCrypt-Hybrid](https://github.com/uslumurat405-oss/chaoscrypt-hybrid)** | Hyperchaotic Hybrid Encryption Engine (NIST PQC) | `Python`, `Rust`, `AES-256-GCM` | ✅ Active |
+| **Rust VM Obfuscator** | AI-Resistant Polymorphic Virtual Machine | `Rust`, `LLVM`, `Procedural Macros` | 🚧 In Development |
+| **AI Homelab Architect** | 3-Node Autonomous Data Center & Local LLM Agents | `Proxmox`, `Docker`, `Python`, `Ollama` | 🚧 In Development |
+| **Zero-Day Lab** | Custom exploit development & vulnerability research | `C`, `Assembly`, `Ghidra`, `Radare2` | 🔒 Private |
 
 ---
 
-### 🎯 Current Focus
-- Designing hardware-aware cryptographic algorithms for future Boron-Graphene chip architectures.
-- Optimizing chaotic attractor iterations (Lorenz, Chen, Rössler) using Rust and GPU acceleration (CUDA/OpenCL).
-- Exploring the intersection of fractional calculus and cryptographic key generation.
-- Building neuromorphic computing systems for analog encryption.
-- Researching Physical Unclonable Functions (PUF) for hardware security.
+### 🏆 Recent Achievements
+- 🥇 **Reddit r/PythonProjects:** Featured in Top 6 Posts of the Day for ChaosCrypt-Hybrid.
+- 📝 **Published Author:** Authored a comprehensive technical article on "Crypto-Agility & Post-Quantum Threats" (Featured on LinkedIn).
 
 ---
 
-### 🏆 Technical Achievements
-- Implemented hybrid encryption combining chaos theory with AES-256-GCM
-- Developed custom Runge-Kutta solvers for chaotic differential equations
-- Built penetration testing tools for Kali Linux ecosystem
-- Researched graphene-based analog computing architectures
-- Created security audit frameworks for cryptographic systems
+### 📝 Latest Articles & Resources
+- 🔗 [Kripto-Çeviklik: Kuantum Bilgisayarlar Çağında Şirketler Ne Yapmalı?](https://www.linkedin.com/pulse/kripto-%25C3%25A7eviklik-crypto-agility-kuantum-bilgisayarlar-kap%25C4%25B1dayken-uslu-hbwdf) *(Turkish)* - Deep dive into NIST PQC standards and practical implementation.
 
 ---
 
-### 📬 Connect With Me
-- 📧 **Email:** uslumurat405@gmail.com
-- 💼 **LinkedIn:** [Murat Uslu](https://www.linkedin.com/in/murat-uslu-8868851ab)
--  **GitHub:** [github.com/uslumurat405-oss](https://github.com/uslumurat405-oss)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uslumurat405-oss&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uslumurat405-oss&layout=compact&theme=radical&hide_border=true)
 
----
 
-> *"Mathematics is the language in which God has written the universe. Code is how I rewrite it."*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uslumurat405-oss&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uslumurat405-oss&theme=dark&hide_border=true" />
-</p>
